@@ -1,2 +1,2 @@
-# creativeAssetDatabase
-Local Creative Asset Database allowing local access to files by keyword search, description, and other segmentations
+# marketResearchDashboard
+Local research dashboard allowing researchers to run general competitive insights and trend analysis
